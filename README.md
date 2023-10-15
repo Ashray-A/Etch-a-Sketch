@@ -20,7 +20,7 @@ You can try out the Etch-a-Sketch project [here](Ashray-A.github.io/Etch-a-Sketc
 3. Enjoy the bonus features for a unique drawing experience!
 
 - Randomized Colors: Each interaction randomizes the color of the square.
-- Progressive Darkening: Each interaction darkens the color by 10%, eventually reaching black after ten interactions.
+- Progressive Darkening: Each interaction darkens the color by 10%, eventually reaching black after ten     interactions.
 
 ## Technologies Used
 

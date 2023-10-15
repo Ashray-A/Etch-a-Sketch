@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  button {
+    margin-bottom: 10px;
+  }
+  
+  #container {
+    display: grid;
+    margin: 0 auto;
+    width: 960px;
+    height: 960px;
+    border: 1px solid #ccc;
+  }
+  
+  .grid-square {
+    border: 1px solid #ccc;
+  }
+  
+  .grid-square:hover {
+    background-color: black;
+  }
+  
