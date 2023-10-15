@@ -11,7 +11,7 @@ This is a simple web-based Etch-a-Sketch application where users can create draw
 
 ## Demo
 
-You can try out the Etch-a-Sketch project [here](Ashray-A.github.io/Etch-a-Sketch/).
+You can try out the Etch-a-Sketch project [here](https://ashray-a.github.io/Etch-a-Sketch/).
 
 ## How to Use
 
